@@ -1,0 +1,14 @@
+#-------------#
+# Maven Files #
+#-------------#
+target
+#---------------------------#
+# Anypoint Studio / Eclipse #
+#---------------------------#
+.studio
+.classpath
+.project
+.settings
+mule-project.xml
+.mule
+catalog
